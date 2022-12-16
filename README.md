@@ -6,7 +6,7 @@ According to this [Laravel Doc](https://laravel.com/docs/9.x/eloquent#upserts), 
 
 clone this repo and do the following steps:
 ```bash
-git clone 
+git clone git@github.com:askdkc/laravel-upsert-error.git
 cd laravel-upsert-error
 composer install
 cp .env.example .env
