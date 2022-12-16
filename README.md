@@ -46,3 +46,5 @@ Also access to [http://127.0.0.1:8000//updateorcreate](http://127.0.0.1:8000/upd
 
     return Flight::all();
 ```
+
+I wonder why `upsert` is not working as the doc explains?
